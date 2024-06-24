@@ -1,0 +1,11 @@
+{
+    "Documents": [".pdf", ".docx", ".txt"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif",".tif"],
+    "Videos": [".mp4", ".mov"],
+    "Audio": [".mp3", ".wav"],
+    "Archives": [".zip", ".rar", ".tar.gz"],
+    "VisualStudioCode": [".code-workspace", ".ipynb", ".settings",".py",".sql"],
+    "Executables": [".exe", ".msi",".apk"],
+    "Microsoft_pack":[".csv",".odt",".doc",".pptx",".ods"]
+    
+}
